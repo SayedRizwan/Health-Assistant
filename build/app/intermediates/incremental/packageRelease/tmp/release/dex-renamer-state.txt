@@ -1,0 +1,4 @@
+#Sun Jun 12 08:59:39 PKT 2022
+base.0=C\:\\Rizwan Bukhari\\Tasks\\Jehn lerry\\Working Project\\Latest\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
