@@ -1,5 +1,3 @@
-# Automatically generated on 2022-07-16 UTC from https://codemagic.io/app/62d347c1726fce87195399ae/settings
-# Note that this configuration is not an exact match to UI settings. Review and adjust as necessary.
 
 workflows:
   default-workflow:
