@@ -1,2 +1,0 @@
-# SampleCode
-Sample app
