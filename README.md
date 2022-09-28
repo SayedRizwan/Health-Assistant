@@ -1,13 +1,16 @@
 
-# HEALTH CALCULATOR
+# HEALTH Assistant
+It helps you to determine yout heath level.
+Also it help to improve yout health.
 
-Application designed to calculate 
+Application is designed as to calculate your 
 Body Mass Index
 Body Fat 
 Waist to Hip Ratio 
 Ideal Weight and 
 Weight Loss
-of  male and female.
+Also you can check your history
+It works for  male and female of any age.
 
 
  ![Drawer](https://user-images.githubusercontent.com/67913637/168927772-4f2d607a-a9bb-4899-9d1b-1ec779fb259f.jpeg)
@@ -37,4 +40,4 @@ Upon clicking, the CALCULATE button at the bottom of the screen the page navigat
 
 ![BMI_vdo_high_gif](https://user-images.githubusercontent.com/92578144/159859839-51c55e03-ab3f-4af9-87c8-bd425d5a4c78.gif)
 
-Also you can 
+Also you can check personalized Page which maintain records. So you can find whether you are going upward or downward.
