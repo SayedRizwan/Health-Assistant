@@ -1,5 +1,5 @@
 
-# HEALTH Assistant
+# Health Assistant
 It helps you to determine yout heath level.
 Also it help to improve yout health.
 
