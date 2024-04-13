@@ -1,15 +1,15 @@
 
-# Health Assistant
-It helps you to determine yout heath level.
-Also it help to improve yout health.
+# WeightLossGenie (Health Assistant)
+It helps you to determine your health level.
+Also, it helps to improve your health.
 
-Application is designed as to calculate your 
+The application is designed to calculate your 
 Body Mass Index
 Body Fat 
-Waist to Hip Ratio 
+Waist-to-Hip Ratio 
 Ideal Weight and 
 Weight Loss
-Also you can check your history
+Also, you can check your history
 It works for  male and female of any age.
 
 
@@ -23,7 +23,7 @@ The BMI UI of the application
   </tr>
 </table>
 
-User can select their Gender, Height, Weight and Age
+User can select their Gender, Height, Weight, and Age
 
 Upon clicking, the CALCULATE button at the bottom of the screen the page navigates to a new screen where
 
